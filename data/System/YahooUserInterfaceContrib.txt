@@ -8,7 +8,7 @@ One line description, required for extensions repository catalog.
 %TOC%
 
 ---++ Summary of Contents
-Contains an un-archived and ready for use copy of YUI 2.5.2 - see http://developer.yahoo.com/yui
+Contains an un-archived and ready for use copy of YUI 2.6.0 - see http://developer.yahoo.com/yui
 
 If you get the contrib using svn, it will contain all the examples and
 documentation that is in the original archive. 
@@ -47,6 +47,7 @@ documentation that is in the original archive.
 |  Dependencies: | %$DEPENDENCIES% |
 |  Version: | %$VERSION% |
 |  Change History: | <!-- versions below in reverse order -->&nbsp; |
+|  05 Jab 2009: | move to Foswiki and update to v2.6.0 |
 |  06 Aug 2008: | update to v2.5.2 |
 |  10 Jul 2007: | update to v2.2.2 |
 |  16 Mar 2007: | update to v2.2.0a version |
