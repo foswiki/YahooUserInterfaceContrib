@@ -1,5 +1,8 @@
----+!! YahooUserInterfaceContrib Contrib Package
-
+---+!! !YahooUserInterfaceContrib
+<!--
+One line description, required for extensions repository catalog.
+   * Set SHORTDESCRIPTION = Yahoo User Interface Javascript library for use by Plugins, Contribs and applications
+-->
 %SHORTDESCRIPTION%
 
 %TOC%
@@ -34,23 +37,11 @@ documentation that is in the original archive.
    * [[%ATTACHURL%/examples/tabview/index.html][Tabview]]
    * [[%ATTACHURL%/examples/treeview/index.html][Treeview]]
 
-
-<!--
-   * Set SHORTDESCRIPTION = Yahoo User Interface AJAX library packaged as a contrib for plugins and TWiki application
-   * Set STUB = %$STUB%
--->
-
 ---++ Installation Instructions
-	* Download the ZIP file from the Plugin web (see below)
-	* Unzip ==%TOPIC%.zip== in your twiki installation directory. Content:
-	| *File:* | *Description:* |
-%$MANIFEST%
-	* Run ==%TOPIC%_installer.pl== to automatically check and install other modules that this module depends on. You can also do this step manually. Dependencies:
-	%$DEPENDENCIES%
 
----++ Contrib Info
+%$INSTALL_INSTRUCTIONS%
 
-|  Plugin Author: | TWiki:Main.SvenDowideit - SvenDowideit@DistributedINFORMATION.com [[http://DistributedINFORMATION.com][DistributedINFORMATION]] - a <img src="%ATTACHURLPATH%/wikiringlogo20x20.png" /> [[http://www.wikiring.com][WikiRing.com]] partner |
+|  Author: | Foswiki:Main.SvenDowideit - SvenDowideit@fosiki.com [[http://fosiki.com][fosiki]] - a <img src="%ATTACHURLPATH%/wikiringlogo20x20.png" /> [[http://www.wikiring.com][WikiRing.com]] partner |
 |  Copyright &copy;: | Copyright Yahoo INC |
 |  License: | GPL ([[http://developer.yahoo.com/yui/license.txt][Yahoo BSD License]]) |
 |  Dependencies: | %$DEPENDENCIES% |
@@ -60,10 +51,7 @@ documentation that is in the original archive.
 |  10 Jul 2007: | update to v2.2.2 |
 |  16 Mar 2007: | update to v2.2.0a version |
 |  24 Oct 2006: | Initial version |
-|  Home: | http://foswiki.org/Extensions/%TOPIC% |
-|  Feedback: | http://foswiki.org/Extensions/%TOPIC%Dev |
-|  Appraisal: | http://foswiki.org/Extensions/%TOPIC%Appraisal |
+|  Home page: | http://foswiki.org/Extensions/YahooUserInterfaceContrib |
 
-__Related Topics:__ %SYSTEMWEB%.DefaultPreferences, %USERSWEB%.SitePreferences
-
+<!-- Do _not_ attempt to edit this topic; it is auto-generated. -->
 %META:FILEATTACHMENT{name="wikiringlogo20x20.png" attr="h" autoattached="1" comment="wikiringlogo20x20.png" date="1161688837" path="wikiringlogo20x20.png" size="1343" user="Main.SvenDowideit" version="1"}%
