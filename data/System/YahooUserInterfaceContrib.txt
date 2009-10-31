@@ -8,15 +8,20 @@ One line description, required for extensions repository catalog.
 %TOC%
 
 ---++ Summary of Contents
-Contains an un-archived and ready for use copy of YUI 2.6.0 - see http://developer.yahoo.com/yui
+Contains an un-archived and ready for use copy of YUI 2.8.0 - see http://developer.yahoo.com/yui
 
 If you get the contrib using svn, it will contain all the examples and
 documentation that is in the original archive. 
 
----++ Documentation
-   * [[%ATTACHURL%/docs/index.html][YUI API]]
+%N% Now also contains a full copy of YUI 3.0.0 - see http://developer.yahoo.com/yui/3/
 
----++ Examples
+Note: YUI 3 is able to run on the same page as YUI 2 without any problems.
+
+---++ Documentation
+   * [[%ATTACHURL%/docs/index.html][YUI2 API]]
+   * [[%ATTACHURL%/yui3/docs/index.html][YUI3 API]]
+
+---++ YUI 2 Examples
    * [[%ATTACHURL%/examples/animation/index.html][Animation]]
    * [[%ATTACHURL%/examples/autocomplete/index.html][Autocomplete]]
    * [[%ATTACHURL%/examples/button/index.html][Button]]
@@ -37,6 +42,14 @@ documentation that is in the original archive.
    * [[%ATTACHURL%/examples/tabview/index.html][Tabview]]
    * [[%ATTACHURL%/examples/treeview/index.html][Treeview]]
 
+---++ YUI 3 Examples
+   * [[%ATTACHURL%/yui3/examples/anim/index.html][Animation]]
+   * [[%ATTACHURL%/yui3/examples/dd/index.html][Dragdrop]]
+   * [[%ATTACHURL%/yui3/examples/event/index.html][Event]]
+   * [[%ATTACHURL%/yui3/examples/get/index.html][Get]]
+
+_More can be found in the root of the YUI3 install._
+
 ---++ Installation Instructions
 
 %$INSTALL_INSTRUCTIONS%
@@ -47,7 +60,8 @@ documentation that is in the original archive.
 |  Dependencies: | %$DEPENDENCIES% |
 |  Version: | %$VERSION% |
 |  Change History: | <!-- versions below in reverse order -->&nbsp; |
-|  05 Jab 2009: | move to Foswiki and update to v2.6.0 |
+|  31 Oct 2009: | update to v2.8.0 and add v3.0.0 -- Foswiki:Main.AndrewJones |
+|  05 Jan 2009: | move to Foswiki and update to v2.6.0 |
 |  06 Aug 2008: | update to v2.5.2 |
 |  10 Jul 2007: | update to v2.2.2 |
 |  16 Mar 2007: | update to v2.2.0a version |
