@@ -17,7 +17,7 @@ use strict;
 
 use vars qw( $VERSION $RELEASE $SHORTDESCRIPTION );
 
-$VERSION = '$Rev$';
-$RELEASE = '';
+$VERSION          = '$Rev$';
+$RELEASE          = '';
 $SHORTDESCRIPTION = 'Yahoo User Interface Javascript library for use by Plugins, Contribs and applications';
 
